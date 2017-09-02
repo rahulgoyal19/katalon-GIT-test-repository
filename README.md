@@ -1,0 +1,1 @@
+# katalon-GIT-test-repository
